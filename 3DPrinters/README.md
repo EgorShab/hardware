@@ -1,6 +1,6 @@
 # 3D Printer Projects
 
-This section showcases my extensive experience with 3D printers, including assembly, setup, calibration, and maintenance. My hands-on experience spans various types of FDM (Fused Deposition Modeling) 3D printers.
+This section showcases my experience with 3D printers, including assembly, setup, calibration, and maintenance. My hands-on experience spans various types of FDM (Fused Deposition Modeling) 3D printers.
 
 ## Experience Overview
 
