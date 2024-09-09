@@ -1,4 +1,4 @@
-# Drone Projects
+# Drone Project
 
 This section highlights my experience with drone assembly and integration. I’ve worked with various drone components, focusing on both hardware assembly and software configuration. Below is a showcase of a completed drone build, along with details on the components used and the software configured.
 
