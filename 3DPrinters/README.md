@@ -26,6 +26,16 @@ This section showcases my extensive experience with 3D printers, including assem
 - **Prusa i3 MK3 Tuning**: Optimized the performance of a Prusa i3 MK3 through precise calibration and software adjustments, resulting in improved print accuracy and speed.
 - **Kodak Portrait 3D Printer Integration**: Successfully integrated Klipper firmware with the Kodak Portrait 3D Printer, addressing firmware-related issues and achieving stable and reliable 3D printing.
 
+## Visuals
+
+**3D Printer Setup:**
+
+<img src="3DPrinter.jpeg" alt="3D Printer img" width="35%"/> 
+
+**Printed Gears:**
+
+<img src="3Dprints.jpeg" alt="3D Printed gears img" width="35%"/> 
+
 ---
 
 These projects demonstrate my capability to handle complex 3D printing systems, combining hands-on hardware skills with advanced software configuration. My experience with various 3D printers highlights my ability to work across different technologies and deliver high-quality results.
